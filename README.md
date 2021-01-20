@@ -1,4 +1,4 @@
-# JavascriptDeserializationLab
+# Javascript Deserialization Lab
 
 **Challenge:** Get a reverse shell by exploiting a javascript deserialization vulnerability.
 
